@@ -17,7 +17,7 @@ After my time in the corporate world and a transformative journey abroad to expl
 
 ---
 
-### 🔭 Currently
+### 🔍 Currently
 
 - Open for **junior developer roles and opportunities**
 - Fully motivated to learn from experienced teams, contribute to real-world projects and grow both **professionally and personally**
@@ -26,7 +26,7 @@ After my time in the corporate world and a transformative journey abroad to expl
 
 ---
 
-### 📫 Let’s Connect
+### 🤝 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/svenkaack)  
 - [Email](mailto:sven.kaack@gmx.de)
