@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-After my time in the corporate world and a transformative journey abroad to explore Latin America and reflect on my own career goals, I decided to follow my passion for tech and development. I recently graduated from a project-based Full-Stack Web and App Development bootcamp with a focus on:
+After my time in the corporate world and a transformative journey abroad to explore Latin America and reflect on my own career goals, I decided to follow my passion for tech and development. I recently graduated from a project-based Full-Stack Web and App Development bootcamp, focusing on:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Vite
 - **Backend:** Node.js, Express, RESTful APIs
