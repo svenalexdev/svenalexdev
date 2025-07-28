@@ -16,6 +16,7 @@ After my time in the corporate world and a transformative journey abroad to expl
 - **Databases:** MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub  
 - **Agile Methodologies**: Scrum
+- **Generative AI Integration**
 
 ---
 
