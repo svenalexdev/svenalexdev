@@ -1,14 +1,13 @@
 ## Hi, I’m Sven!
 
-- M.Sc. in Business Management
-- 6 years of experience in corporate with a focus on sales, data and digital projects
+- M.Sc. in Business Management and 6 years of experience in corporate with a focus on sales, data and digital projects
 - **Now: Full-Stack Web Developer in the making, with a focus on building purposeful, user-friendly applications**
 
 ---
 
 ### 💡 About Me
 
-After years in the corporate world and an extended journey abroad to reflect on my own career goals, I decided to follow my passion for tech and development. I recently graduated from a project-based Full-Stack Web and App Development bootcamp with a focus on:
+After my time in the corporate world and a transformative journey abroad to explore Latin America and reflect on my own career goals, I decided to follow my passion for tech and development. I recently graduated from a project-based Full-Stack Web and App Development bootcamp with a focus on:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Vite
 - **Backend:** Node.js, Express, RESTful APIs
