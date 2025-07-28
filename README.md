@@ -1,7 +1,9 @@
 ## Hi, I’m Sven!
 
-- **M.Sc. in Business Management** and 6 years of experience in corporate with a focus on sales, data and digital projects
-- **Now: Full-Stack Web Developer in the making, with a focus on building purposeful, user-friendly applications**
+- **Junior Full-Stack Developer** on the rise
+- **M.Sc. in Business Management** with 6 years of corporate experience - focus on sales, data & digital projects
+- Combining technical skills with business expertise and a strong eye for usability & design
+- Multilingual, shaped by extensive international experience and an affinity for Latin America
 
 ---
 
