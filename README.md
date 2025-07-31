@@ -25,7 +25,7 @@ After my time in the corporate world and a transformative journey abroad to expl
 - Open for **junior developer roles and opportunities**
 - Fully motivated to learn from experienced teams, contribute to real-world projects and grow both **professionally and personally**
 - Working on personal projects to sharpen my skills  
-- Exploring TypeScript & modern dev best practices  
+- Up next: Exploring TypeScript & modern dev best practices  
 
 ---
 
